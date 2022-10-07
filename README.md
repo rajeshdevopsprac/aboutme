@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @rajeshdevopsprac
+- 👋 Hi, I’m Rajesh Kumar
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on xyz
 - 📫 How to reach me 7815822813
 
 <!---
