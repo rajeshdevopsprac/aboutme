@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajesh Kumar
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning DevOps
+- 👀 I’m interested in learning new things
+- 🌱 I’m currently working as a DevOps Engineer
 - 📫 How to reach me 7815822813
 
 <!---
